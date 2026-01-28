@@ -1,0 +1,12 @@
+{
+  "name": "pill-experiment-backend",
+  "version": "1.0.0",
+  "description": "红蓝药丸实验后端API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@vercel/node": "^2.9.0"
+  }
+}
